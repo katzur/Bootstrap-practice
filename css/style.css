@@ -79,8 +79,16 @@ body {
     width: 160px;
 }
 
-.btn-orange {
+.btn--orange {
     color: whitesmoke;
     background-color: #bf802a;
     border-color: #bf802a;
+}
+
+.btn--orange:hover,
+.btn--orange:active,
+.btn--orange:focus,
+.btn--orange:active:focus {
+    background-color: #a46a1b;
+    border-color: #a46a1b;
 }
