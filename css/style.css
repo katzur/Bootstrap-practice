@@ -2,9 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper {
-
-}
+.container-wrapper {}
 
 .container-wrapper--orange {
     background: linear-gradient(to top, #a46a1b 0%, #0A0A0A 60%);
@@ -197,5 +195,5 @@ body {
     min-width: 100px;
     font-weight: bold;
     margin-top: 10px;
-    color:#bf802a
+    color: #bf802a
 }
